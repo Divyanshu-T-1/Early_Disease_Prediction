@@ -12,7 +12,7 @@ The application provides an easy-to-use interface where users can enter medical 
 
 ## 🚀 Live Demo
 
-🌐 **Deployment:** **Coming Soon** *(Add your Streamlit Cloud link here after deployment)*
+🌐 **Deployment:** **Coming Soon** *(  https://earlydiseaseprediction-qxyyg8dsvgpi3956yvxaw9.streamlit.app/  )*
 
 Example:
 
